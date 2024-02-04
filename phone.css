@@ -1,0 +1,68 @@
+@media screen and (max-width: 900px) {
+    .all-container{
+        width: 100%;
+        height: 62vh;
+
+    }
+}
+
+
+@media screen and (max-width: 700px) {
+   .nav-div{
+    display: block;
+   }
+   .nav-link a{
+    margin-left: 10px;
+    margin-top: -10px;
+    font-size: 12px;
+    
+   }
+.nhr{
+width: 100%;
+}
+.nav-brand{
+    margin-left: 40px;
+}
+.nav-link{
+width: 60%;
+margin: auto;
+}
+.nav-brand img {
+ width: 100px;
+ height: auto;
+}
+#carouselExampleInterval{
+    margin-top: -30px;
+
+}
+.all-container{
+    width: 100%;
+    height: 47vh;
+
+}
+.top-cont{
+    margin-top: 1300px;
+}
+.her{
+    width: 7px;
+    height: 480px;
+    margin-left: 20px;
+}
+.for-lorem{
+    height: 450px;
+
+}
+.top-text{
+    margin-left: 20px;
+}
+/* #fl{
+    padding: 0 10px;
+   
+} */
+.top-img-h4{
+    height: 450px;
+    width: 130px;
+    margin-left: -20px;
+
+}
+  }
